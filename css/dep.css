@@ -1,0 +1,43 @@
+.dep-cont {
+  display: flex;
+
+  position: absolute;
+  bottom: -110%;
+  margin-left: 5%;
+}
+
+.deph {
+  position: absolute;
+  display: flex;
+  margin-top: -8%;
+  margin-left: 2%;
+}
+.arrow {
+  padding-top: 40px;
+  padding-left: 877px;
+}
+.readme {
+  margin-top: 1%;
+}
+.dep1text {
+  margin-left: 8%;
+}
+.d1t1 {
+  margin-top: -2%;
+  margin-bottom: -4%;
+}
+.d1c1 span {
+  font: size 3px;
+  color: #211e1e;
+}
+
+.dep1 {
+  margin: 0 20px;
+}
+
+.dep2 {
+  margin: 0 20px;
+}
+.dep3 {
+  margin: 0 20px;
+}
