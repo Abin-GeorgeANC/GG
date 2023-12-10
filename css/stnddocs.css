@@ -1,0 +1,31 @@
+.standingmaskdocs {
+  background: rgba(234, 242, 255, 1);
+  display: flex;
+  width: 92%;
+  position: absolute;
+  top: 230%;
+  margin-left: 4%;
+}
+
+.maskdocbg {
+  background-image: url(/image/wavelinebg.png);
+}
+
+.imgtick {
+  padding-right: 5px;
+}
+
+.whygpos {
+  margin-left: 2%;
+}
+
+.points {
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+}
+
+.rightmaskdoc {
+  margin-top: 90px;
+  margin-left: 130px;
+}
