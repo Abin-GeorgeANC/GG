@@ -158,3 +158,51 @@
 .tile-one {
   padding: 10px;
 }
+
+.newsletter-container {
+  margin-left: 40px;
+  position: absolute;
+  top: 580%;
+  width: 1100px;
+  height: 200px;
+  background-color: white;
+}
+
+.newsletter-container img {
+  height: 200px;
+  width: 600px;
+}
+
+.newsletter-caption {
+  position: absolute;
+  top: 35%;
+  left: 3%;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.newsletter-textbox {
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  width: 500px;
+  height: 35px;
+  border: none;
+  outline: none;
+  border-bottom: 1.5px solid #211e1e;
+  padding-bottom: 5px;
+  font-size: 18px;
+}
+
+.subscribe-button {
+  position: absolute;
+  top: 42%;
+  left: 82%;
+  color: white;
+  height: 40px;
+  width: 160px;
+  margin-right: 120px;
+  background-color: #17c1a3;
+  border: none;
+  border-radius: 7px;
+}
