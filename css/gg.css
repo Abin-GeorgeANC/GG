@@ -24,6 +24,14 @@
   font-size: 11px;
 }
 
+.docplay {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin-left: 18%;
+  margin-top: -3%;
+}
+
 .button {
   height: 45px;
   width: 175px;

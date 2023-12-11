@@ -146,7 +146,9 @@
 
 .interested-page {
   position: absolute;
+  background-color: rgba(234, 242, 255, 1);
   top: 400%;
+  height: 120%;
 }
 
 .interested-tiles-section {
@@ -205,4 +207,94 @@
   background-color: #17c1a3;
   border: none;
   border-radius: 7px;
+}
+
+.footer-section-one {
+  display: flex;
+}
+
+.footer-section-one-left-panel {
+  flex: 2;
+  margin-left: 70px;
+}
+
+.footer-hospital-logo {
+  padding-bottom: 20px;
+}
+
+.footer-hospital-info {
+  font-size: 14px;
+  opacity: 90%;
+  margin-bottom: 40px;
+}
+
+.footer-section-one-right-panel {
+  flex: 3;
+  text-align: center;
+  margin-left: 100px;
+  display: flex;
+  margin-top: 13px;
+}
+
+.footer td,
+th,
+tr {
+  text-align: left;
+  width: 150px;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.footer-table-one {
+  margin-right: 40px;
+}
+
+.footer-hr {
+  margin-left: 65px;
+  margin-right: 90px;
+}
+
+.footer-section-two {
+  display: flex;
+  margin-left: 67px;
+  margin-top: 25px;
+  line-height: 25px;
+}
+
+.footer-address {
+  flex: 1.5;
+  margin-right: 60px;
+}
+
+.footer-phone {
+  flex: 1;
+  margin-left: -30px;
+}
+
+.footer-mail {
+  flex: 1;
+  margin-left: -30px;
+}
+
+.footer-socials {
+  flex: 1;
+}
+
+.socials-caption {
+  font-weight: bold;
+}
+
+.footer-address-data {
+  font-size: 13px;
+}
+.footer {
+  position: absolute;
+  top: 630%;
+}
+
+.footer-section-three {
+  font-size: 12px;
+  opacity: 70%;
+  padding-top: 40px;
+  padding-bottom: 10px;
 }
